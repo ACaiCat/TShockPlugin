@@ -4,7 +4,7 @@ charset=utf-8
 
 [*.csproj]
 indent_size=4
-indent_style=space
+indent_style=space1
 
 # C# files
 [*.cs]
